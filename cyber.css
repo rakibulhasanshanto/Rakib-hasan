@@ -194,7 +194,7 @@ border-radius: 20px;
 
  display: flex;
  margin-bottom: 700px;
- margin-top: 200px;
+ margin-top: 400px;
  
 
    }
@@ -245,3 +245,191 @@ margin-left: 30px ;
     font-weight: 800px;
     font-size: 35px;
 }
+
+.thirdparty{
+    
+
+}
+.htwo{
+    text-align: center;
+    color: red;
+    font-size: 45px;
+    font-weight: 800px;
+    margin: 50px;
+    padding: 100px;
+}
+
+
+.htwo:hover{
+    text-align: center;
+    color: green;
+    font-size: 45px;
+    font-weight: 800px;
+    margin: 50px;
+    padding: 100px;
+    animation:cubic-bezier(0.645, 0.045, 0.355, 1);
+  cursor: all-scroll;
+}
+.trojan{
+display: flex;
+text-align: center;
+
+
+
+    
+}
+
+.trojan:hover{
+    display: flex;
+    text-align: center;
+    background-image: black,red;
+    
+    
+    
+        
+    }
+
+.trojanone{
+    box-shadow: 7px 8px 8px gray;
+    margin-left: 10px;
+    padding: 10px;
+
+}
+.trojantwo{
+    box-shadow: 7px 8px 8px gray;
+    margin-left: 10px;
+    padding: 10px;
+
+}
+.rat{
+    color: red;
+}
+
+
+.foursec{
+    background-image: url(images/NETWORKIN8.jpg);
+    height: 400PX;
+    width: 1500PX;
+    margin: 20PX;
+    padding: 30PX;
+
+}
+.kik{
+    text-align: center;
+    font-size: 25px;
+     color:black;
+    font-weight: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
