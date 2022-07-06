@@ -47,10 +47,142 @@ background-color:;
 .navmenupro ul li a:hover{
     text-decoration: none;
     color: springgreen;
-    cursor: move;
+    cursor:grab;
 
 
 }
 
 
+.cyber {
+    color: red;
+    font-size: 100px;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+.cyber:hover {
+    color: black;
+    font-size: 100px;
+    margin: 0px;
+    padding: 10px;
+    animation: reverse;
+}
+
+.midcorn{
+    margin-top: 40px;
+}
+
+.midhit{
+    display: flex;
+
+}
+
+.middiv1{
+    margin-top: 7px;
+    width: 60%;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 50px;
+
+}
+.middiv1 Headone{
+font-size: 50px;
+
+}
+.p1{
+    font-size: larger;
+    font-weight: 700px;
+    word-wrap: inherit;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.midimg{
+
+width: 40%;
+height: 250px;
+border-radius: 20px;
+}
+.Headone{
+    text-align: center;
+}
+
+.twomidcorn{
+    margin-bottom: 40px;
+}
+.red{
+ color:red;
+ background-color:yellowgreen;
+ margin: 6px;
+ padding: 10px;
+ 
+
+}
+.red a {
+    text-decoration: none;
+}
+
+
+.red:hover{
+    color:black;
+    background-color:rgb(205, 50, 50);
+    margin: 6px;
+    padding: 7px;
+    cursor: all-scroll;
+    
+   
+   }
 
